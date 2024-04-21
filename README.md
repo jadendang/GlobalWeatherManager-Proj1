@@ -1,0 +1,1 @@
+# GlobalWeatherManager-Proj1
